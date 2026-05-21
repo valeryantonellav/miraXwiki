@@ -1,0 +1,24 @@
+====== Flooding and Rewetting ======
+
+This tool simulates water spread over terrain.
+
+===== Inputs =====
+
+  * Digital Terrain Model (DTM)
+  * Study area polygon
+  * Water level points
+
+===== Output =====
+
+  * Flooded area map
+
+{{ :toolboxes:mirax_flooding.png?960 |}}
+
+===== Use Cases =====
+
+  * Flood risk exploration
+  * Scenario testing
+
+<WRAP info>
+This tool is intended for exploratory analysis only.
+</WRAP>

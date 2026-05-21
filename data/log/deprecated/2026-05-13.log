@@ -1,0 +1,12 @@
+2026-05-13 05:03:52		tpl_action() is deprecated. It was called from include() in C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\detail.php:105 see devel:menus should be used instead!
+2026-05-13 05:03:52		tpl_actionlink() is deprecated. It was called from tpl_action() in C:\xampp\htdocs\dokuwiki\inc\template.php:713 see devel:menus should be used instead!
+2026-05-13 05:03:52		tpl_get_action() is deprecated. It was called from tpl_actionlink() in C:\xampp\htdocs\dokuwiki\inc\template.php:593 see devel:menus should be used instead!
+2026-05-13 05:03:53		tpl_action() is deprecated. It was called from include() in C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\detail.php:106 see devel:menus should be used instead!
+2026-05-13 05:03:53		tpl_actionlink() is deprecated. It was called from tpl_action() in C:\xampp\htdocs\dokuwiki\inc\template.php:713 see devel:menus should be used instead!
+2026-05-13 05:03:53		tpl_get_action() is deprecated. It was called from tpl_actionlink() in C:\xampp\htdocs\dokuwiki\inc\template.php:593 see devel:menus should be used instead!
+2026-05-13 05:04:00		tpl_action() is deprecated. It was called from include() in C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\detail.php:105 see devel:menus should be used instead!
+2026-05-13 05:04:00		tpl_actionlink() is deprecated. It was called from tpl_action() in C:\xampp\htdocs\dokuwiki\inc\template.php:713 see devel:menus should be used instead!
+2026-05-13 05:04:00		tpl_get_action() is deprecated. It was called from tpl_actionlink() in C:\xampp\htdocs\dokuwiki\inc\template.php:593 see devel:menus should be used instead!
+2026-05-13 05:04:00		tpl_action() is deprecated. It was called from include() in C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\detail.php:106 see devel:menus should be used instead!
+2026-05-13 05:04:00		tpl_actionlink() is deprecated. It was called from tpl_action() in C:\xampp\htdocs\dokuwiki\inc\template.php:713 see devel:menus should be used instead!
+2026-05-13 05:04:00		tpl_get_action() is deprecated. It was called from tpl_actionlink() in C:\xampp\htdocs\dokuwiki\inc\template.php:593 see devel:menus should be used instead!

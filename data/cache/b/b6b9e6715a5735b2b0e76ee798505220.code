@@ -1,0 +1,10 @@
+{
+  &quot;type&quot;: &quot;Feature&quot;,
+  &quot;geometry&quot;: {
+    &quot;type&quot;: &quot;Point&quot;,
+    &quot;coordinates&quot;: [-78.4678, -0.1807]
+  },
+  &quot;properties&quot;: {
+    &quot;name&quot;: &quot;Sensor Location&quot;
+  }
+}

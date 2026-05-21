@@ -1,0 +1,98 @@
+====== Hydro-Met ======
+
+Tools for analysing hydrological and meteorological datasets, forecasts, and environmental indicators within miraX.
+
+===== Features =====
+
+  * Annual statistics
+  * Extreme value analysis
+  * Historical comparison
+  * Data export
+  * Interactive visualization
+  * Report generation
+  * Scenario comparison
+
+{{ :toolboxes:mirax_hydro-met.png?960 |}}
+
+===== Supported Analysis =====
+
+==== Hydrological Analysis ====
+
+Supports visualization and interpretation of hydrological variables and temporal behaviour.
+
+Examples include:
+
+  * Evotranspiration analysis
+  * Precipitation analysis
+  * Streamflow analysis
+  * Soil moisture evaluation
+  * Water balance indicators
+  * Seasonal variability
+
+{{ :toolboxes:mirax_hydroanalysis.png?960 |}}
+
+----
+==== Meteorological Analysis ====
+
+Supports analysis of meteorological conditions and atmospheric variables.
+
+Examples include:
+
+  * Temperature analysis
+  * Rainfall variability
+  * Climate observations
+  * Forecast interpretation
+
+{{ :toolboxes:mirax_precipitationanalysis.png?960 |}}
+
+----
+
+==== Extreme Events and Drought Analysis ====
+
+Provides tools for evaluating environmental extremes and drought-related indicators.
+
+Capabilities may include:
+
+  * Extreme event evaluation
+  * Drought indicators
+  * Temporal anomaly visualization
+  * Spatial trend analysis
+
+{{ :toolboxes:mirax_meteorologicalanalysis.png?960 |}}
+
+----
+
+==== Scenario-Based Analysis ====
+
+Supports comparison of environmental indicators across multiple scenarios and temporal horizons.
+
+Users can explore:
+
+  * Climate scenarios
+  * Temporal evolution
+  * Statistical summaries
+  * Spatial variability
+  * Water demand indicators
+
+{{ :toolboxes:mirax_waterdemandscenario.png?960 |}}
+
+===== Forecast Integration =====
+
+Hydro-Met tools support visualization of:
+
+  * Precipitation forecasts
+  * Temperature forecasts
+  * Temporal raster datasets
+  * Environmental indicators
+
+{{ :toolboxes:mirax_precipitationforecast.png?960 |}}
+
+===== Integration =====
+
+Hydro-Met tools can be combined with:
+
+  * Networks
+  * Time Series Dashboards
+  * Forecast datasets
+  * Spatial analysis tools
+  * Reports & Export

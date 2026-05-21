@@ -1,0 +1,25 @@
+====== Projects ======
+
+===== Project Manager =====
+
+After signing in, users can access available projects through the **Project Manager**.
+{{ :projects:screenshot_2026-05-05_104254.png |}}
+
+===== Global Project =====
+
+  * Available to all users by default
+  * No configuration required
+  * Ideal for exploring basic features
+
+{{ :projects:screenshot_2026-05-05_104441.png |}}
+===== User-Specific Projects =====
+
+These projects:
+
+  * Require authorization
+  * Include custom datasets and configurations
+  * Are restricted based on user roles
+
+<WRAP info>
+This wiki provides a **public overview** of miraX features. Some functionalities may require access permissions.
+</WRAP>

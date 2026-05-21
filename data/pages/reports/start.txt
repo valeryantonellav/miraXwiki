@@ -1,0 +1,45 @@
+====== Reports and Export ======
+
+miraX supports exporting datasets, charts, and analytical outputs for reporting, collaboration, and decision support.
+
+===== Available Exports =====
+
+  * Time series export
+  * Map visualization export
+  * CSV data export
+  * PDF report generation
+{{ :reports:mirax_generatereport.png?960 |}}
+{{ :reports:mirax_report.png?960 |}}
+
+===== Reporting Features =====
+
+Generated reports may include:
+
+  * Charts and visualizations
+  * Statistical summaries
+  * Metadata
+  * Scenario comparisons
+  * Spatial analysis outputs
+
+{{ :reports:mirax_exportreport.png?960 |}}
+{{ :reports:miraxcsv.png?960 |}}
+
+===== Export Sources =====
+
+Reports and exports can be generated from:
+
+  * Time Series Dashboards
+  * Networks
+  * Hydro-Met tools
+  * Spatial analysis tools
+  * Forecast visualizations
+
+{{ :reports:mirax_pdf.png?960 |}}
+{{ :reports:miraxcsv.png?960 |}}
+
+===== Workflow =====
+
+  - Open a dataset or dashboard
+  - Configure the desired visualization
+  - Select export or report options
+  - Download the generated output

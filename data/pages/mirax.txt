@@ -1,0 +1,166 @@
+====== miraX Wiki ======
+
+Welcome to the official **miraX documentation wiki**.
+
+miraX is a cloud-based decision-support platform designed to support monitoring, analysis, and management of water systems through geospatial information, time series, and integrated analytical tools.
+
+Its purpose is to transform multiple sources of information into actionable insights for planning, operations, and risk management.
+
+===== What is miraX? =====
+
+miraX integrates multiple data sources into a unified environment, including:
+
+  * Hydrological and meteorological datasets
+  * Satellite observations
+  * Forecast information
+  * User-defined data
+
+The platform enables users to:
+
+  * Visualize geospatial information
+  * Analyze time series
+  * Compare scenarios
+  * Support operational workflows
+
+----
+
+===== Introduction Video =====
+
+Platform overview and demonstration:
+
+{{ youtube>BU-yR01sZQg?960x500 }}
+
+----
+
+===== Digital Twin Concept =====
+
+miraX supports digital-twin-based workflows by integrating observations, models, and geospatial information into a unified operational environment.
+
+===== Core Components =====
+
+==== Real-Time Monitoring ====
+
+miraX integrates multiple observation sources to provide visibility into current system conditions, including:
+
+  * Sensor networks
+  * Satellite-derived information
+  * Meteorological variables
+  * Hydrological observations
+
+These data streams support operational awareness and interactive visualisation.
+
+----
+
+==== Forecasting and Analysis ====
+
+miraX supports analysis and scenario evaluation to assist operational and strategic decision-making.
+
+----
+
+==== Geospatial Intelligence ====
+
+miraX provides integrated geospatial visualization and analysis capabilities, including:
+
+  * Interactive spatial visualisation
+  * Multi-layer data integration
+  * Dynamic mapping tools
+
+----
+
+==== Scenario Simulation ====
+
+The platform supports scenario-based workflows for planning and operational support.
+
+Potential applications include:
+
+  * Flood scenario analysis
+  * Water allocation planning
+  * Resilience assessments
+  * Operational optimisation
+
+===== Decision-Support Capabilities =====
+
+miraX supports decisions across multiple time horizons:
+
+^ Decision Horizon ^ Examples ^
+| Operational | Real-time monitoring and event response |
+| Tactical | Coordination and event management |
+| Strategic | Long-term planning and resilience investment |
+
+===== Example Use Cases =====
+
+==== Risk Management ====
+
+  * Flood risk management
+  * Drought preparedness
+  * Climate risk assessment
+  * Extreme event response
+
+==== Infrastructure Management ====
+
+  * Asset monitoring
+  * Operational optimisation
+  * Maintenance planning
+
+==== Planning and Resilience ====
+
+  * Climate adaptation planning
+  * Water buffering strategies
+  * Policy and intervention assessment
+
+===== Example Projects =====
+
+==== BUFFER+ ====
+{{ :screenshot_2026-04-27_005648.png?960 |}}
+Peatland restoration and climate resilience initiatives.
+
+----
+
+==== WE-ACT ====
+{{ :screenshot_2026-04-27_005759.png?960 |}}
+Decision-support for water allocation and climate-sensitive planning.
+
+----
+
+==== VIKAP ====
+{{ :screenshot_2026-04-27_005835.png?960 |}}
+Water and energy management initiatives supported by climate data.
+
+----
+
+==== WIJ-Water ====
+{{ :screenshot_2026-04-27_005906.png?960 |}}
+Cross-border freshwater buffering and resilient water management.
+
+----
+
+===== Intended Users =====
+
+miraX is designed for organisations involved in managing complex water systems, including:
+
+  * Consulting firms
+  * Engineering companies
+  * Water and land managers
+  * Public authorities
+  * Contractors
+  * Spatial planners
+
+===== Key Benefits =====
+
+Key benefits of the platform include:
+
+  * Improved decision support
+  * Integrated multi-source intelligence
+  * Scenario-driven analysis
+  * Enhanced operational awareness
+  * Scalable geospatial workflows
+
+===== Getting Started =====
+
+To start using miraX:
+
+  - Access the platform: https://mirax.haedes.eu/
+  - Create an account
+  - Explore the **Global Project**
+
+👉 Continue here: [[projects:start|Projects & Access]]

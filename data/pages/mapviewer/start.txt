@@ -1,0 +1,73 @@
+====== Map Viewer ======
+
+The Map Viewer allows users to interact with geographic and temporal datasets within miraX.
+
+===== Features =====
+
+  * Zoom and navigation
+  * Layer visualization
+  * Feature interaction
+  * Spatial exploration
+  * Temporal visualization
+
+===== View Controls =====
+
+  * Zoom controls
+  * Search bar
+  * Legend
+  * Grid
+  * Coordinates
+  * Scale bar
+
+{{ :mapviewer:mirax_viewcontrols.png |}}
+
+===== Layer Management =====
+
+Users can:
+
+  * Toggle layers on/off
+  * Compare spatial datasets
+  * Visualize raster and vector layers
+  * Explore temporal datasets
+
+===== Basemaps =====
+
+Available basemaps may include:
+
+  * Satellite imagery
+  * Terrain maps
+  * Light and dark themes
+  * Topographic maps
+
+===== Feature Interaction =====
+
+Interactive tools support:
+
+  * Feature inspection
+  * Metadata visualization
+  * Spatial measurements
+  * Drawing tools
+
+===== Advanced Visualization =====
+
+==== 3D View ====
+
+Explore terrain in three dimensions.
+
+{{ :mapviewer:mirax_3dview.png |}}
+
+----
+
+==== Time Layers ====
+
+Visualize temporal raster and forecast datasets.
+
+{{ :mapviewer:mirax_timelayers.png |}}
+
+----
+
+==== Side-by-Side ====
+
+Compare datasets visually.
+
+{{ :mapviewer:mirax_sidebyside.png |}}

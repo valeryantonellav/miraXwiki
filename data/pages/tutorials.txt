@@ -1,0 +1,94 @@
+====== Tutorials ======
+
+This section provides step-by-step video tutorials to help users understand and effectively use miraX.
+
+===== Core Platform Features =====
+
+=== View tools/menu ===
+{{ youtube>f9UqkJg4Eys?1250x750 }}
+
+Overview of the main tools and navigation menu in miraX.
+
+----
+
+=== Base Maps menu ===
+{{ youtube>BU-yR01sZQg?960x500 }}
+
+How to use and switch between different basemaps.
+
+----
+
+=== Layers menu ===
+{{ youtube>4bRmxH7eqAg?960x500 }}
+
+Managing and interacting with map layers.
+
+----
+
+=== Time series analysis dashboard ===
+{{ youtube>s6usQO3O9js?960x500 }}
+
+Using dashboards to analyse temporal data.
+
+----
+
+===== Applications =====
+
+=== GEOGLOWS application ===
+{{ youtube>dWGH4ptc84Q?960x500 }}
+
+Hydrological forecasting and river flow analysis.
+
+----
+
+=== OpenMeteo application ===
+{{ youtube>L12L_QJMsbo?960x500 }}
+
+Accessing weather data and forecasts.
+
+----
+
+===== Data & Analysis Tools =====
+
+=== WE-ACT Data Warehouse layers ===
+{{ youtube>va7Ypldy2O8?960x500 }}
+
+Exploring available datasets from WE-ACT.
+
+----
+
+=== WE-ACT drought analysis tool ===
+{{ youtube>384BoljOEnw?960x500 }}
+
+Drought monitoring and analysis tools.
+
+----
+
+=== Standardized Precipitation–Evapotranspiration Index (SPEI) ===
+{{ youtube>dWzEgvI7ccw?960x500 }}
+
+Global drought forecasting using SPEI.
+
+----
+
+=== ECMWF precipitation & temperature forecasts ===
+{{ youtube>vbWAIJ-KE9Q?960x500 }}
+
+Time-enabled forecasts for climate variables.
+
+----
+
+===== Specialized Tools =====
+
+=== Peatland Subsidence Tool ===
+{{ youtube>t7BRDoeT-T0?960x500 }}
+
+Analysis of peatland subsidence and environmental impact.
+
+----
+
+===== Notes =====
+
+  * Tutorials are grouped by functionality
+  * Start with core platform features before moving to applications
+  * Each video focuses on a specific tool or module within miraX

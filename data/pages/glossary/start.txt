@@ -1,0 +1,78 @@
+====== Glossary ======
+
+Below are the most commonly used terms within miraX and related workflows.
+
+----
+
+===== Dashboard =====
+A visual interface used to display maps, charts, indicators, and analytical results.
+
+<WRAP tip>
+Dashboards help users monitor data and interact with visual analytics in real time.
+</WRAP>
+
+----
+
+===== STD (Single Time Series Dashboard) =====
+A dashboard focused on displaying a single time series dataset.
+
+Examples:
+  * Water level at one station
+  * Rainfall at one sensor
+  * Groundwater evolution over time
+
+<WRAP info>
+STD dashboards are useful for detailed analysis of one monitoring location.
+</WRAP>
+
+----
+
+===== MTD (Multiple Time Series Dashboard) =====
+A dashboard that displays and compares multiple time series simultaneously.
+
+Examples:
+  * Comparing rainfall stations
+  * River discharge at different locations
+  * Multi-sensor monitoring
+
+<WRAP info>
+MTD dashboards are commonly used for regional analysis and comparison.
+</WRAP>
+
+----
+
+===== Network =====
+A data source or collection of connected monitoring stations providing time series data.
+
+Examples:
+  * Meteorological stations
+  * Groundwater sensors
+  * River gauges
+
+----
+
+===== WCS (Web Coverage Service) =====
+A geospatial web service standard used to provide raster or gridded spatial data.
+
+Typical uses:
+  * Elevation models
+  * Satellite imagery
+  * Raster-based simulations
+
+<WRAP important>
+WCS services provide downloadable spatial coverage data rather than only map visualization.
+</WRAP>
+
+----
+
+===== Subsidence =====
+The gradual sinking or lowering of the ground surface, commonly caused by peat oxidation, groundwater extraction, or soil compaction.
+
+In miraX, subsidence analysis is used to:
+  * Simulate peatland degradation
+  * Estimate surface lowering
+  * Evaluate CO₂ emission reduction scenarios
+
+<WRAP alert>
+Peatland subsidence is often accelerated when groundwater levels decrease.
+</WRAP>

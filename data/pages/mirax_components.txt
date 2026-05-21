@@ -1,0 +1,59 @@
+====== miraX Components ======
+
+miraX is organized around several core components that support visualization, data access, modeling and analysis.
+
+<WRAP info>
+Select a component below to access detailed documentation, available datasets, tools and examples.
+</WRAP>
+
+{{ :screenshot_2026-04-27_080651.png |}}
+
+^ Component ^ Description ^ See Also ^
+| [[base_maps|Base Maps]] | Background cartographic layers for spatial context | [[layers|Layers]] |
+| [[networks|Networks]] | Real-time and historical monitoring networks | [[models|Models]] |
+| [[layers|Layers]] | Raster and vector geospatial datasets | [[user_layers|User Layers]] |
+| [[user_layers|User Layers]] | User-created and imported data | [[toolbar|Toolbar]] |
+| [[models|Models]] | Simulation and analytical tools | [[networks|Networks]] |
+| [[tools|Toolbar]] | Interactive map tools and utilities | [[layers|Layers]] |
+
+----
+
+===== Component Overview =====
+
+=== Base Maps ===
+Provide map backgrounds such as satellite imagery, terrain and reference maps.
+
+→ [[base_maps|Explore available basemaps]]
+
+=== Networks ===
+Access environmental observation networks, stations and time series.
+
+→ [[networks|Explore available networks]]
+
+=== Layers ===
+Visualize project data through raster, vector and thematic layers.
+
+→ [[layers|Explore layers]]
+
+=== User Layers ===
+Create and manage your own spatial data.
+
+→ [[user_layers|Explore user layers]]
+
+=== Models ===
+Run simulations and analysis tools.
+
+→ [[models|Explore models]]
+
+=== Toolbar ===
+Access measurement, drawing and analysis tools.
+
+→ [[tools|Explore tools]]
+
+----
+
+===== Related Documentation =====
+
+  * [[map_viewer|Map Viewer]]
+  * [[time_series|Time Series Dashboards]]
+  * [[project_manager|Project Manager]]

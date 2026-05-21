@@ -1,0 +1,306 @@
+2026-04-27 05:51:39	C:\xampp\htdocs\dokuwiki\lib\tpl\codowik\main.php(36)	Error: Call to undefined function tpl_js()
+  #0 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include()
+  #1 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #2 {main}
+2026-04-27 05:51:54	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:51:54	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:51:56	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:51:56	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:51:58	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:51:58	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:51:59	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:51:59	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:52:02	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:52:02	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:52:05	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 05:52:05	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:23	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:23	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:23	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:23	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:30	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:30	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:33	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:33	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:34	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:34	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:37	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:37	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:37	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:37	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:42	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:42	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:42	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:42	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:47	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:47	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:48	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:02:48	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:01	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:01	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:01	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:01	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:12	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:12	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:12	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:12	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:15	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:15	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:15	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:03:15	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:05:09	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:05:09	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:05:09	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38)	E_WARNING: Undefined array key "__background__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(38): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 38)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 06:05:09	C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43)	E_WARNING: Undefined array key "__background_alt__"
+  #0 C:\xampp\htdocs\dokuwiki\inc\Manifest.php(43): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+  #1 C:\xampp\htdocs\dokuwiki\lib\exe\manifest.php(17): dokuwiki\Manifest->sendManifest()
+  #2 {main}
+2026-04-27 14:58:39	C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(60)	E_WARNING: Undefined variable $dismiss
+  #0 C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(60): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 60)
+  #1 C:\xampp\htdocs\dokuwiki\inc\parser\renderer.php(126): syntax_plugin_bootswrapper_alert->render('xhtml', Object(Doku_Renderer_xhtml), Array)
+  #2 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(691): Doku_Renderer->plugin('bootswrapper_al...', Array, 1, '<alert type="in...')
+  #3 C:\xampp\htdocs\dokuwiki\inc\Ui\PageView.php(56): p_render('xhtml', Array, NULL)
+  #4 C:\xampp\htdocs\dokuwiki\inc\Action\Preview.php(32): dokuwiki\Ui\PageView->show()
+  #5 C:\xampp\htdocs\dokuwiki\inc\template.php(120): dokuwiki\Action\Preview->tplContent()
+  #6 [internal function]: tpl_content_core('preview')
+  #7 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(134): call_user_func_array('tpl_content_cor...', Array)
+  #8 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #9 C:\xampp\htdocs\dokuwiki\inc\template.php(102): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'preview', 'tpl_content_cor...')
+  #10 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\mikio.php(1230): tpl_content(false)
+  #11 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\main.php(96): dokuwiki\template\mikio\mikio->includeContent()
+  #12 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #13 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #14 {main}
+2026-04-27 14:58:39	C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(66)	E_WARNING: Undefined variable $dismiss
+  #0 C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(66): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 66)
+  #1 C:\xampp\htdocs\dokuwiki\inc\parser\renderer.php(126): syntax_plugin_bootswrapper_alert->render('xhtml', Object(Doku_Renderer_xhtml), Array)
+  #2 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(691): Doku_Renderer->plugin('bootswrapper_al...', Array, 1, '<alert type="in...')
+  #3 C:\xampp\htdocs\dokuwiki\inc\Ui\PageView.php(56): p_render('xhtml', Array, NULL)
+  #4 C:\xampp\htdocs\dokuwiki\inc\Action\Preview.php(32): dokuwiki\Ui\PageView->show()
+  #5 C:\xampp\htdocs\dokuwiki\inc\template.php(120): dokuwiki\Action\Preview->tplContent()
+  #6 [internal function]: tpl_content_core('preview')
+  #7 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(134): call_user_func_array('tpl_content_cor...', Array)
+  #8 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #9 C:\xampp\htdocs\dokuwiki\inc\template.php(102): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'preview', 'tpl_content_cor...')
+  #10 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\mikio.php(1230): tpl_content(false)
+  #11 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\main.php(96): dokuwiki\template\mikio\mikio->includeContent()
+  #12 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #13 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #14 {main}
+2026-04-27 14:58:39	C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(70)	E_WARNING: Undefined variable $icon
+  #0 C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(70): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 70)
+  #1 C:\xampp\htdocs\dokuwiki\inc\parser\renderer.php(126): syntax_plugin_bootswrapper_alert->render('xhtml', Object(Doku_Renderer_xhtml), Array)
+  #2 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(691): Doku_Renderer->plugin('bootswrapper_al...', Array, 1, '<alert type="in...')
+  #3 C:\xampp\htdocs\dokuwiki\inc\Ui\PageView.php(56): p_render('xhtml', Array, NULL)
+  #4 C:\xampp\htdocs\dokuwiki\inc\Action\Preview.php(32): dokuwiki\Ui\PageView->show()
+  #5 C:\xampp\htdocs\dokuwiki\inc\template.php(120): dokuwiki\Action\Preview->tplContent()
+  #6 [internal function]: tpl_content_core('preview')
+  #7 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(134): call_user_func_array('tpl_content_cor...', Array)
+  #8 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #9 C:\xampp\htdocs\dokuwiki\inc\template.php(102): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'preview', 'tpl_content_cor...')
+  #10 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\mikio.php(1230): tpl_content(false)
+  #11 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\main.php(96): dokuwiki\template\mikio\mikio->includeContent()
+  #12 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #13 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #14 {main}
+2026-04-27 14:58:47	C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(60)	E_WARNING: Undefined variable $dismiss
+  #0 C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(60): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 60)
+  #1 C:\xampp\htdocs\dokuwiki\inc\parser\renderer.php(126): syntax_plugin_bootswrapper_alert->render('xhtml', Object(Doku_Renderer_xhtml), Array)
+  #2 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(691): Doku_Renderer->plugin('bootswrapper_al...', Array, 1, '<alert type="in...')
+  #3 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(158): p_render('xhtml', Array, NULL)
+  #4 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(97): p_cached_output('C:/xampp/htdocs...', 'xhtml', 'mirax_component...')
+  #5 C:\xampp\htdocs\dokuwiki\inc\Ui\PageView.php(67): p_wiki_xhtml('mirax_component...', 0, true, '')
+  #6 C:\xampp\htdocs\dokuwiki\inc\Action\Show.php(40): dokuwiki\Ui\PageView->show()
+  #7 C:\xampp\htdocs\dokuwiki\inc\template.php(120): dokuwiki\Action\Show->tplContent()
+  #8 [internal function]: tpl_content_core('show')
+  #9 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(134): call_user_func_array('tpl_content_cor...', Array)
+  #10 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #11 C:\xampp\htdocs\dokuwiki\inc\template.php(102): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'show', 'tpl_content_cor...')
+  #12 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\mikio.php(1230): tpl_content(false)
+  #13 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\main.php(96): dokuwiki\template\mikio\mikio->includeContent()
+  #14 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #15 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #16 {main}
+2026-04-27 14:58:47	C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(66)	E_WARNING: Undefined variable $dismiss
+  #0 C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(66): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 66)
+  #1 C:\xampp\htdocs\dokuwiki\inc\parser\renderer.php(126): syntax_plugin_bootswrapper_alert->render('xhtml', Object(Doku_Renderer_xhtml), Array)
+  #2 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(691): Doku_Renderer->plugin('bootswrapper_al...', Array, 1, '<alert type="in...')
+  #3 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(158): p_render('xhtml', Array, NULL)
+  #4 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(97): p_cached_output('C:/xampp/htdocs...', 'xhtml', 'mirax_component...')
+  #5 C:\xampp\htdocs\dokuwiki\inc\Ui\PageView.php(67): p_wiki_xhtml('mirax_component...', 0, true, '')
+  #6 C:\xampp\htdocs\dokuwiki\inc\Action\Show.php(40): dokuwiki\Ui\PageView->show()
+  #7 C:\xampp\htdocs\dokuwiki\inc\template.php(120): dokuwiki\Action\Show->tplContent()
+  #8 [internal function]: tpl_content_core('show')
+  #9 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(134): call_user_func_array('tpl_content_cor...', Array)
+  #10 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #11 C:\xampp\htdocs\dokuwiki\inc\template.php(102): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'show', 'tpl_content_cor...')
+  #12 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\mikio.php(1230): tpl_content(false)
+  #13 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\main.php(96): dokuwiki\template\mikio\mikio->includeContent()
+  #14 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #15 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #16 {main}
+2026-04-27 14:58:47	C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(70)	E_WARNING: Undefined variable $icon
+  #0 C:\xampp\htdocs\dokuwiki\lib\plugins\bootswrapper\syntax\alert.php(70): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 70)
+  #1 C:\xampp\htdocs\dokuwiki\inc\parser\renderer.php(126): syntax_plugin_bootswrapper_alert->render('xhtml', Object(Doku_Renderer_xhtml), Array)
+  #2 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(691): Doku_Renderer->plugin('bootswrapper_al...', Array, 1, '<alert type="in...')
+  #3 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(158): p_render('xhtml', Array, NULL)
+  #4 C:\xampp\htdocs\dokuwiki\inc\parserutils.php(97): p_cached_output('C:/xampp/htdocs...', 'xhtml', 'mirax_component...')
+  #5 C:\xampp\htdocs\dokuwiki\inc\Ui\PageView.php(67): p_wiki_xhtml('mirax_component...', 0, true, '')
+  #6 C:\xampp\htdocs\dokuwiki\inc\Action\Show.php(40): dokuwiki\Ui\PageView->show()
+  #7 C:\xampp\htdocs\dokuwiki\inc\template.php(120): dokuwiki\Action\Show->tplContent()
+  #8 [internal function]: tpl_content_core('show')
+  #9 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(134): call_user_func_array('tpl_content_cor...', Array)
+  #10 C:\xampp\htdocs\dokuwiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('tpl_content_cor...', true)
+  #11 C:\xampp\htdocs\dokuwiki\inc\template.php(102): dokuwiki\Extension\Event::createAndTrigger('TPL_ACT_RENDER', 'show', 'tpl_content_cor...')
+  #12 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\mikio.php(1230): tpl_content(false)
+  #13 C:\xampp\htdocs\dokuwiki\lib\tpl\mikio\main.php(96): dokuwiki\template\mikio\mikio->includeContent()
+  #14 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #15 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #16 {main}

@@ -1,0 +1,20 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1777999919;s:8:"modified";i:1778645539;}s:7:"creator";s:6:"Valery";s:4:"user";s:5:"admin";s:11:"last_change";a:9:{s:4:"date";i:1778645539;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:19:"toolboxes:rewetting";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-1;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:5:"admin";s:6:"Valery";}s:5:"title";s:22:"Flooding and Rewetting";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:22:"flooding_and_rewetting";s:5:"title";s:22:"Flooding and Rewetting";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:6:"inputs";s:5:"title";s:6:"Inputs";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:6:"output";s:5:"title";s:6:"Output";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:9:"use_cases";s:5:"title";s:9:"Use Cases";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:249:"Flooding and Rewetting
+
+This tool simulates water spread over terrain.
+
+Inputs
+
+	*  Digital Terrain Model (DTM)
+	*  Study area polygon
+	*  Water level points
+
+Output
+
+	*  Flooded area map
+
+
+
+Use Cases
+
+	*  Flood risk exploration
+	*  Scenario testing";}s:8:"relation";a:2:{s:5:"media";a:1:{s:28:"toolboxes:mirax_flooding.png";b:1;}s:10:"firstimage";s:28:"toolboxes:mirax_flooding.png";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1777999919;s:8:"modified";i:1778645539;}s:7:"creator";s:6:"Valery";s:4:"user";s:5:"admin";s:11:"last_change";a:9:{s:4:"date";i:1778645539;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:19:"toolboxes:rewetting";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-1;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:5:"admin";s:6:"Valery";}}}

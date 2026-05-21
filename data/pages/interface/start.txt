@@ -1,0 +1,61 @@
+====== Interface Overview ======
+
+The miraX interface consists of:
+
+  * Top Menu
+  * Sidebar
+  * Search Bar
+  * Map Viewer
+  * Toolboxes
+
+{{ :interface:mirax_interface.png |}}
+
+===== Top Menu =====
+
+Provides access to:
+
+  * Project and file management
+  * View and display controls
+  * Language selection
+  * Theme settings
+  * Help and guidance tools
+
+{{ :interface:miraxinterface_topmenu.png?960 |}}
+
+===== Sidebar =====
+
+Used to manage:
+
+  * Layers
+  * Basemaps
+  * Networks
+  * Toolbars
+  * Models
+  * Simulations
+
+{{ :interface:miraxinterface_sidebar.png?960 |}}
+
+===== Search Bar =====
+
+Allows users to search for:
+
+  * Addresses
+  * Locations
+
+{{ :interface:miraxinterface_searchbar.png?960 |}}
+
+===== Map Viewer =====
+
+Central area for:
+
+  * Visualization
+  * Interaction
+  * Spatial analysis
+
+{{ :interface:miraxinterface_mapviewer.png?960 |}}
+
+===== Toolboxes =====
+
+Provides access to advanced tools depending on user permissions.
+
+{{ :interface:miraxinterface_toolbox.png?960 |}}

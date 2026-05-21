@@ -1,0 +1,5 @@
+.DS_Store
+manager.dat
+styles/*.less
+styles/*.css
+.idea/*

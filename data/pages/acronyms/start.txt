@@ -1,0 +1,168 @@
+====== Acronyms ======
+
+Below are common abbreviations and acronyms used within miraX and related workflows.
+
+----
+
+===== DSS (Decision Support System) =====
+
+A digital platform designed to support operational, tactical, and strategic decision-making through data visualization, analysis, and modelling tools.
+
+<WRAP info>
+miraX can operate as a Decision Support System for water and environmental management.
+</WRAP>
+
+----
+
+===== STD (Single Time Series Dashboard) =====
+
+A dashboard used to analyse a single time series dataset.
+
+Examples:
+  * Water level at one station
+  * Rainfall measurements
+  * Temperature observations
+
+----
+
+===== MTD (Multiple Time Series Dashboard) =====
+
+A dashboard used to compare multiple time series simultaneously.
+
+Typical uses:
+  * Station comparison
+  * Regional analysis
+  * Multi-parameter visualization
+
+----
+
+===== WMS (Web Map Service) =====
+
+A standard geospatial web service used to visualize spatial layers through online map services.
+
+Typical layers include:
+  * Satellite imagery
+  * Hydrological maps
+  * Environmental datasets
+
+<WRAP important>
+WMS services focus on map visualization and dynamic layer rendering.
+</WRAP>
+
+----
+
+===== WCS (Web Coverage Service) =====
+
+A geospatial web service standard used to provide raster or gridded spatial datasets.
+
+Typical uses:
+  * Elevation models
+  * Raster simulations
+  * Satellite-derived products
+
+<WRAP important>
+WCS services provide downloadable spatial coverage data.
+</WRAP>
+
+----
+
+===== GIS (Geographic Information System) =====
+
+A framework for storing, analysing, and visualizing spatial data.
+
+In miraX, GIS capabilities support:
+  * Layer visualization
+  * Spatial analysis
+  * Geospatial workflows
+
+----
+
+===== WebGIS =====
+
+A web-based geographic information system accessible through a browser interface.
+
+Typical capabilities include:
+  * Interactive maps
+  * Spatial layers
+  * Online geospatial analysis
+
+----
+
+===== SaaS (Software as a Service) =====
+
+A cloud-based software delivery model where applications are accessed through the internet.
+
+<WRAP tip>
+miraX operates as a cloud-based platform accessible through a web browser.
+</WRAP>
+
+----
+
+===== RCP (Representative Concentration Pathway) =====
+
+Climate change scenarios used to estimate potential future greenhouse gas concentration pathways.
+
+Examples:
+  * RCP 2.6
+  * RCP 4.5
+  * RCP 8.5
+
+----
+
+===== DEM (Digital Elevation Model) =====
+
+A raster-based representation of terrain elevation used in geospatial and hydrological analysis.
+
+Typical applications:
+  * Terrain visualization
+  * Flood modelling
+  * Watershed analysis
+
+----
+
+===== API (Application Programming Interface) =====
+
+A communication interface that allows software systems and services to exchange data.
+
+In miraX, APIs may support:
+  * Data integration
+  * External services
+  * Automated workflows
+
+----
+
+===== IoT (Internet of Things) =====
+
+A network of connected devices and sensors capable of collecting and transmitting real-time data.
+
+Examples:
+  * Weather stations
+  * Water level sensors
+  * Environmental monitoring devices
+
+----
+
+===== Hydro-Met =====
+
+A combined abbreviation for hydrological and meteorological datasets, observations, and analysis tools.
+
+Examples:
+  * Rainfall analysis
+  * River discharge monitoring
+  * Temperature observations
+
+----
+
+===== PDF (Portable Document Format) =====
+
+A document format commonly used for exporting reports, charts, and analytical summaries from miraX.
+
+----
+
+===== CSV (Comma-Separated Values) =====
+
+A text-based data format commonly used for exporting tabular datasets and time series information.
+
+<WRAP tip>
+CSV files can be opened in spreadsheet software and analytical tools.
+</WRAP>

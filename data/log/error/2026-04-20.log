@@ -1,0 +1,211 @@
+2026-04-20 14:26:37	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:26:37	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:26:37	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(268)	Error: Call to undefined function trigger_event()
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:26:43	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:26:43	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:26:43	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(246)	E_WARNING: Undefined array key "tableofcontents"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(246): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 246)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:26:43	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(268)	Error: Call to undefined function trigger_event()
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:06	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:06	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:06	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(268)	Error: Call to undefined function trigger_event()
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:07	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:07	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:07	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(268)	Error: Call to undefined function trigger_event()
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:08	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:08	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:08	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(246)	E_WARNING: Undefined array key "tableofcontents"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(246): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 246)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:27:08	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(268)	Error: Call to undefined function trigger_event()
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:11	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(33): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:11	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34)	E_WARNING: Undefined variable $DOKU_INC
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(34): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34)
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:27:11	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(246)	E_WARNING: Undefined array key "tableofcontents"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(246): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 246)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:27:11	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(268)	Error: Call to undefined function trigger_event()
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:30:35	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(246)	E_WARNING: Undefined array key "tableofcontents"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(246): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 246)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:30:35	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(268)	Error: Call to undefined function trigger_event()
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:30:58	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(268)	Error: Call to undefined function trigger_event()
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:30:59	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(246)	E_WARNING: Undefined array key "tableofcontents"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(246): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 246)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:30:59	C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\tpl_functions.php(268)	Error: Call to undefined function trigger_event()
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\starterbootstrap\main.php(168): _tpl_toc()
+  #1 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #3 {main}
+2026-04-20 14:36:44	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(32)	E_WARNING: Undefined array key "REDIRECT_STATUS"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(32): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:44	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(34)	E_WARNING: Undefined array key "HTTP_X_REAL_IP"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(34): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 34)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:44	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(39)	E_WARNING: Undefined array key "HTTP_X_REAL_IP"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(39): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 39)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:49	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(32)	E_WARNING: Undefined array key "REDIRECT_STATUS"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(32): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:49	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(34)	E_WARNING: Undefined array key "HTTP_X_REAL_IP"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(34): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 34)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:49	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(39)	E_WARNING: Undefined array key "HTTP_X_REAL_IP"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(39): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 39)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:52	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(32)	E_WARNING: Undefined array key "REDIRECT_STATUS"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(32): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:52	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(34)	E_WARNING: Undefined array key "HTTP_X_REAL_IP"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(34): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 34)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:52	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(39)	E_WARNING: Undefined array key "HTTP_X_REAL_IP"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(39): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 39)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:58	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(32)	E_WARNING: Undefined array key "REDIRECT_STATUS"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(32): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:58	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(34)	E_WARNING: Undefined array key "HTTP_X_REAL_IP"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(34): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 34)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:36:58	C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(39)	E_WARNING: Undefined array key "HTTP_X_REAL_IP"
+  #0 C:\xampp\htdocs\dokuwiki\lib\tpl\material\sidebar.php(39): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 39)
+  #1 C:\xampp\htdocs\dokuwiki\lib\tpl\material\main.php(114): include('C:\\xampp\\htdocs...')
+  #2 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #4 {main}
+2026-04-20 14:37:33	C:\xampp\htdocs\dokuwiki\lib\tpl\codowik\main.php(36)	Error: Call to undefined function tpl_js()
+  #0 C:\xampp\htdocs\dokuwiki\inc\actions.php(30): include()
+  #1 C:\xampp\htdocs\dokuwiki\doku.php(131): act_dispatch()
+  #2 {main}

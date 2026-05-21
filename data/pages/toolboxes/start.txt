@@ -1,0 +1,58 @@
+====== Toolboxes ======
+
+The Toolboxes and Toolbar in miraX provide tools for navigation, editing, measurement, visualization, and advanced analytical workflows.
+
+{{ :mirax_toolbox.png?840 |}}
+
+----
+===== Measurement =====
+
+Tools for measuring spatial information directly on the map.
+
+  * Distance
+  * Area
+
+{{ :toolboxes:mirax_measuredistances.png?960 |}}
+
+----
+===== Drawing & Editing =====
+
+Tools for creating, annotating, and editing spatial features.
+  * Add comments/annotations
+{{ :toolboxes:mirax_addcomment.png?960 |}}
+  * Draw features
+  * Editing tools  
+{{ :toolboxes:mirax_editingtoolbox.png?960 |}}
+
+----
+===== Analysis Tools =====
+
+Analytical tools for terrain, raster, and temporal analysis.
+
+  * Profile Tool
+  * Raster comparison
+  * Time lapse
+  * Cross sections
+
+{{ :toolboxes:mirax_profiletool.png?960 |}}
+
+----
+===== Specialized Toolboxes =====
+
+Advanced analytical modules available within miraX.
+
+  * Geotools
+  * Hydro-Met analysis
+  * Flooding/Rewetting
+  * Subsidence modeling
+
+{{ :toolboxes:mirax_reweteringtool.png?960 |}}
+
+----
+<WRAP info> Some tools and analytical modules are only available to authorized users. </WRAP>
+----
+^ Tool Group ^ Example Tools ^
+| Drawing & Editing | Draw Features, Comments, Annotations |
+| Analysis | Profiles, Raster Comparison, Rewetting |
+| Measurement | Distance, Area |
+| Specialized Toolboxes | Hydro-Met, Geotools, Subsidence Modeling |

@@ -1,0 +1,92 @@
+
+<h1 class="sectionedit1" id="geojson">GeoJSON</h1>
+<div class="level1">
+
+<p>
+<strong><a href="/dokuwiki/doku.php?id=geojson" class="wikilink1" title="geojson" data-wiki-id="geojson">GeoJSON</a></strong> is a widely used format for encoding geographic data structures using JSON.
+</p>
+
+<p>
+In miraX, <a href="/dokuwiki/doku.php?id=geojson" class="wikilink1" title="geojson" data-wiki-id="geojson">GeoJSON</a> is used to represent and exchange spatial data such as points, lines, and polygons.
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;GeoJSON&quot;,&quot;hid&quot;:&quot;geojson&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-215&quot;} -->
+<h2 class="sectionedit2" id="structure">Structure</h2>
+<div class="level2">
+
+<p>
+A <a href="/dokuwiki/doku.php?id=geojson" class="wikilink1" title="geojson" data-wiki-id="geojson">GeoJSON</a> file consists of:
+</p>
+<ul>
+<li class="level1"><div class="li"> Geometry (Point, <a href="/dokuwiki/doku.php?id=linestring" class="wikilink2" title="linestring" rel="nofollow" data-wiki-id="linestring">LineString</a>, Polygon)</div>
+</li>
+<li class="level1"><div class="li"> Properties (attributes)</div>
+</li>
+<li class="level1"><div class="li"> Feature collections</div>
+</li>
+</ul>
+
+<p>
+Example:
+</p>
+<pre class="code json">{
+  &quot;type&quot;: &quot;Feature&quot;,
+  &quot;geometry&quot;: {
+    &quot;type&quot;: &quot;Point&quot;,
+    &quot;coordinates&quot;: [-78.4678, -0.1807]
+  },
+  &quot;properties&quot;: {
+    &quot;name&quot;: &quot;Sensor Location&quot;
+  }
+}</pre>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Structure&quot;,&quot;hid&quot;:&quot;structure&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;216-551&quot;} -->
+<h2 class="sectionedit3" id="supported_geometry_types">Supported Geometry Types</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> Point</div>
+</li>
+<li class="level1"><div class="li"> <a href="/dokuwiki/doku.php?id=linestring" class="wikilink2" title="linestring" rel="nofollow" data-wiki-id="linestring">LineString</a></div>
+</li>
+<li class="level1"><div class="li"> Polygon</div>
+</li>
+<li class="level1"><div class="li"> <a href="/dokuwiki/doku.php?id=multipoint" class="wikilink2" title="multipoint" rel="nofollow" data-wiki-id="multipoint">MultiPoint</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/dokuwiki/doku.php?id=multilinestring" class="wikilink2" title="multilinestring" rel="nofollow" data-wiki-id="multilinestring">MultiLineString</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="/dokuwiki/doku.php?id=multipolygon" class="wikilink2" title="multipolygon" rel="nofollow" data-wiki-id="multipolygon">MultiPolygon</a></div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Supported Geometry Types&quot;,&quot;hid&quot;:&quot;supported_geometry_types&quot;,&quot;codeblockOffset&quot;:1,&quot;secid&quot;:3,&quot;range&quot;:&quot;552-679&quot;} -->
+<h2 class="sectionedit4" id="use_in_mirax">Use in miraX</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> Upload custom layers</div>
+</li>
+<li class="level1"><div class="li"> Visualise assets and infrastructure</div>
+</li>
+<li class="level1"><div class="li"> Display analysis results</div>
+</li>
+<li class="level1"><div class="li"> Exchange spatial datasets</div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Use in miraX&quot;,&quot;hid&quot;:&quot;use_in_mirax&quot;,&quot;codeblockOffset&quot;:1,&quot;secid&quot;:4,&quot;range&quot;:&quot;680-830&quot;} -->
+<h2 class="sectionedit5" id="suggested_images">Suggested Images</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> Diagram of <a href="/dokuwiki/doku.php?id=geojson" class="wikilink1" title="geojson" data-wiki-id="geojson">GeoJSON</a> structure</div>
+</li>
+<li class="level1"><div class="li"> Map showing points, lines, polygons</div>
+</li>
+<li class="level1"><div class="li"> Example of uploaded <a href="/dokuwiki/doku.php?id=geojson" class="wikilink1" title="geojson" data-wiki-id="geojson">GeoJSON</a> layer</div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Suggested Images&quot;,&quot;hid&quot;:&quot;suggested_images&quot;,&quot;codeblockOffset&quot;:1,&quot;secid&quot;:5,&quot;range&quot;:&quot;831-&quot;} -->

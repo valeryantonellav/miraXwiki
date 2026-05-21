@@ -1,0 +1,37 @@
+====== Networks ======
+
+Networks provide access to environmental, hydrological, and meteorological time series data.
+
+===== Global Networks =====
+
+  * Weather datasets
+  * Hydrological records
+  * Climate observations
+  * Forecast services
+
+{{ :networks:mirax_globalnetworks.png |}}
+
+===== Regional Networks =====
+
+  * National monitoring systems
+  * Local observation networks
+  * Project-specific datasets
+
+{{ :networks:mirax_regionalnetworks.png |}}
+
+===== Capabilities =====
+
+  * Real-time observations
+  * Historical datasets
+  * Interactive visualization
+  * Parameter exploration
+  * Time series integration
+
+===== Usage =====
+
+  - Select a network
+  - Click map features
+  - Explore available parameters
+  - Open dashboards for analysis
+
+{{:images:networks_placeholder.png?600}}

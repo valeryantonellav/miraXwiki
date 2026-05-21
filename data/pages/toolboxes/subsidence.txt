@@ -1,0 +1,22 @@
+====== Subsidence Tool ======
+
+Simulates peatland subsidence and CO2 emissions.
+
+===== Features =====
+
+  * Scenario simulation
+  * Groundwater interaction
+  * CO2 estimation
+
+{{ :toolboxes:mirax_subsidencetool_configparams.png?960 |}}
+{{ :toolboxes:mirax_subsidencetool.png?960 |}}
+
+===== Outputs =====
+
+  * Subsidence maps
+  * Groundwater levels
+  * Emissions avoided
+
+<WRAP info>
+This model is simplified and intended for comparison purposes.
+</WRAP>

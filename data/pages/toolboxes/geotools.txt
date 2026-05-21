@@ -1,0 +1,13 @@
+====== Geotools ======
+
+===== Profile Tool =====
+
+Generates terrain profiles from elevation data.
+
+{{ :toolboxes:mirax_specializedtoolbox.png?960 |}}
+
+===== Features =====
+
+  * Draw custom lines
+  * Extract elevation data
+  * Visualize terrain variation

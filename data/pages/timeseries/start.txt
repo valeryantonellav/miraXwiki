@@ -1,0 +1,61 @@
+====== Time Series ======
+
+miraX integrates multiple datasets for time series visualization, monitoring, and analysis.
+
+===== Dashboards =====
+
+==== Single Time Series Dashboard (STD) ====
+
+Displays:
+
+  * Metadata
+  * Raw data
+  * Statistical summaries
+  * Interactive charts
+  * Export options
+
+{{ :timeseries:mirax_timeserieslayers.png |}}
+
+----
+
+==== Multiple Time Series Dashboard (MTD) ====
+
+Compare multiple datasets or parameters within a single visualization.
+
+Features include:
+
+  * Comparative analysis
+  * Multi-series visualization
+  * Shared temporal exploration
+
+{{ :timeseries:mirax_timeserieslayers_multipleparameters.png |}}
+
+----
+
+==== Real-Time Monitoring ====
+
+Dashboards can display near real-time environmental and hydrological observations from connected monitoring networks.
+
+Capabilities include:
+
+  * Live measurements
+  * Continuous updates
+  * Historical comparison
+  * Downloadable datasets
+
+===== Features =====
+
+  * Data visualization
+  * Statistical analysis
+  * Extreme value analysis
+  * Historical comparison
+  * Data export
+  * Report generation
+
+===== Supported Data Sources =====
+
+  * Monitoring stations
+  * Forecast datasets
+  * Hydrological models
+  * Meteorological records
+  * External data services
