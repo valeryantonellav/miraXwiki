@@ -22,7 +22,7 @@ Generated reports may include:
   * Spatial analysis outputs
 
 {{ :reports:mirax_exportreport.png?960 |}}
-{{ :reports:miraxcsv.png?960 |}}
+{{ :reports:mirax_statisticalreport.png?960 |}}
 
 ===== Export Sources =====
 
@@ -35,7 +35,7 @@ Reports and exports can be generated from:
   * Forecast visualizations
 
 {{ :reports:mirax_pdf.png?960 |}}
-{{ :reports:miraxcsv.png?960 |}}
+{{ :reports:mirax_csv.png?960 |}}
 
 ===== Workflow =====
 

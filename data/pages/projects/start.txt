@@ -3,7 +3,7 @@
 ===== Project Manager =====
 
 After signing in, users can access available projects through the **Project Manager**.
-{{ :projects:screenshot_2026-05-05_104254.png |}}
+{{ :projects:mirax_projectmanager.png |}}
 
 ===== Global Project =====
 
@@ -11,7 +11,7 @@ After signing in, users can access available projects through the **Project Mana
   * No configuration required
   * Ideal for exploring basic features
 
-{{ :projects:screenshot_2026-05-05_104441.png |}}
+{{ :projects:mirax_globalproject.png |}}
 ===== User-Specific Projects =====
 
 These projects:

@@ -111,25 +111,25 @@ miraX supports decisions across multiple time horizons:
 ===== Example Projects =====
 
 ==== BUFFER+ ====
-{{ :screenshot_2026-04-27_005648.png?960 |}}
+{{ :mirax_bufferplus.png?960 |}}
 Peatland restoration and climate resilience initiatives.
 
 ----
 
 ==== WE-ACT ====
-{{ :screenshot_2026-04-27_005759.png?960 |}}
+{{ :mirax_weact.png?960 |}}
 Decision-support for water allocation and climate-sensitive planning.
 
 ----
 
 ==== VIKAP ====
-{{ :screenshot_2026-04-27_005835.png?960 |}}
+{{ :mirax_vikap.png?960 |}}
 Water and energy management initiatives supported by climate data.
 
 ----
 
 ==== WIJ-Water ====
-{{ :screenshot_2026-04-27_005906.png?960 |}}
+{{ :mirax_wijwater.png?960 |}}
 Cross-border freshwater buffering and resilient water management.
 
 ----
